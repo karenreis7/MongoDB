@@ -8,3 +8,5 @@ Repositório de Anotações desenvolvidas durante o curso sobre MongoDb ministra
 
 * [Módulo Introdutório](https://github.com/karenreis7/MongoDB/blob/main/src/notes/Introdu%C3%A7%C3%A3o.md)
 * [Gerenciamento de Banco de Dados](https://github.com/karenreis7/MongoDB/blob/main/src/notes/GerenciamentoBD.md)
+* [Exportação e Importação de Banco de Dados](https://github.com/karenreis7/MongoDB/blob/main/src/notes/Importacao_Exportacao.md)
+* [CRUD](https://github.com/karenreis7/MongoDB/blob/main/src/notes/CRUD.md)
