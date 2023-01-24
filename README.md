@@ -10,3 +10,12 @@ Repositório de Anotações desenvolvidas durante o curso sobre MongoDb ministra
 * [Gerenciamento de Banco de Dados](https://github.com/karenreis7/MongoDB/blob/main/src/notes/GerenciamentoBD.md)
 * [Exportação e Importação de Banco de Dados](https://github.com/karenreis7/MongoDB/blob/main/src/notes/Importacao_Exportacao.md)
 * [CRUD](https://github.com/karenreis7/MongoDB/blob/main/src/notes/CRUD.md)
+
+
+## Certificado de conclusão
+
+![Certificado MongoDB](https://user-images.githubusercontent.com/94981827/214441695-63c484e3-2062-4387-b69a-54d7545cc470.png)
+
+
+
+
